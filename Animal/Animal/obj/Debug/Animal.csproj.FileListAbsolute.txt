@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\TP3_Recuperatorio\Animal\Animal\bin\Debug\Animal.exe
+C:\Users\Usuario\Desktop\TP3_Recuperatorio\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\Usuario\Desktop\TP3_Recuperatorio\Animal\Animal\obj\Debug\Animal.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_Recuperatorio\Animal\Animal\obj\Debug\Animal.exe
+C:\Users\Usuario\Desktop\TP3_Recuperatorio\Animal\Animal\obj\Debug\Animal.pdb

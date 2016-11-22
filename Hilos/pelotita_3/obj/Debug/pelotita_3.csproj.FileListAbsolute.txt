@@ -1,0 +1,11 @@
+D:\Otero\Hilos\pelotita_3\bin\Debug\pelotita_3.exe.config
+D:\Otero\Hilos\pelotita_3\bin\Debug\pelotita_3.exe
+D:\Otero\Hilos\pelotita_3\bin\Debug\pelotita_3.pdb
+D:\Otero\Hilos\pelotita_3\bin\Debug\Pelotita_con_thread.dll
+D:\Otero\Hilos\pelotita_3\bin\Debug\Pelotita_con_thread.pdb
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.csprojResolveAssemblyReference.cache
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.Form1.resources
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.Properties.Resources.resources
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.csproj.GenerateResource.Cache
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.exe
+D:\Otero\Hilos\pelotita_3\obj\Debug\pelotita_3.pdb
